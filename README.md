@@ -5,9 +5,7 @@ How to run it:
 1) git clone https://github.com/erjonismajli1/GuessMyEmotion) \
 cd /path/to/repo
 
-3) 
-php -S localhost:8000
+2) php -S localhost:8000
 
-4) 
-Open http://localhost:8000 in your browser
+3) Open http://localhost:8000 in your browser
 
